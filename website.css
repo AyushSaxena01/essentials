@@ -1,0 +1,16 @@
+body{
+    color:black;
+    background-color:lightgray;
+}
+
+div.img{
+    display: flex;
+    justify-content: center;
+}
+
+img.Spider-Man-img{
+    border: solid gray 5px;
+    width: 70vw;
+    height: 70vh;
+    justify-items: center;
+}
